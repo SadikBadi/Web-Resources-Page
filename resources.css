@@ -1,0 +1,176 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color:cyan;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    box-shadow: 0 8px 10px black;
+}
+header h1{
+    text-shadow: 3px 7px 8px black;
+}
+
+section {
+    /* max-width: 1000px; */
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+.List{
+ 
+    background-color:khaki;
+}
+.container{
+    height: inherit;
+}
+#online h3{
+    color:rgb(66, 19, 60);
+    text-align: center;
+    font-weight: 700;
+}
+.infosys {
+    background-color:rgb(248, 236, 189);
+    padding: 5px;
+    border: 1px solid gray ;
+    height: auto;
+}
+.infosys p{
+    font-weight: 500;
+}
+.infosys h4 img{
+   width: 30px;
+    height: 30px; 
+}
+.infosys img {
+    width: 300px;
+    height: 200px;
+    padding: 0;
+    margin: 0%;
+}
+.roadmap{
+    background-color:rgb(248, 236, 189);
+    padding: 5px;
+    border: 1px solid gray ;
+}
+.roadmap h4 img{
+    width: 30px;
+    height: 30px;
+}
+.roadmap .row img{
+    width: 450px;
+    height: 250px;
+    padding: 0%;
+    margin: 0%;
+}
+.w3scool{
+    background-color:rgb(248, 236, 189) ;
+    padding: 5px;
+    border: 1px solid gray ;
+}
+.w3scool h4 img{
+    width: 30px;
+    height: 30px;
+}
+.w3scool .row img{
+    width: 450px;
+    height: 250px;
+    padding: 0%;
+    margin: 0%;
+}
+
+#tutorials h3{
+    color:rgb(66, 19, 60);
+    text-align: center;
+    font-weight: 700;
+}
+.apna-college p{
+    font-size: larger;
+    font-weight: 600;
+    text-align: center;
+}
+.apna-college img{
+    width: 300px;
+}
+.apna-college h4 img{
+    width: 30px;
+    height: 30px;
+}
+.apna-college{
+    background-color:  antiquewhite;
+    padding: 5px;
+    height: auto;
+    border: 1px solid grey;
+}
+.Yahoo-Baba{
+    background-color: antiquewhite;
+    padding: 5px;
+    height:auto;
+    border: 1px solid gray;
+}
+.Yahoo-Baba img{
+    width: 370px;
+    margin: 0px 10px;
+    height: 230px;    
+}
+.Yahoo-Baba h4 img{
+    width: 30px;
+    height: 30px;
+}
+.Yahoo-Baba ul{
+    padding-left:30px ;
+}
+.Yahoo-Baba h5 {
+    padding: 15px;
+
+}
+.Yahoo-Baba ul li{
+    list-style-type: circle;
+}
+.TraversyMedia{
+    background-color:  antiquewhite;
+    padding: 5px;
+    border: 1px solid grey;
+    height: auto;
+
+}
+.TraversyMedia img{
+    max-width: 400px;
+}
+.TraversyMedia p{
+    font-size: larger;
+    font-weight: 600;
+    text-align: center;
+}
+.TraversyMedia h4 img{
+    width: 30px;
+    height: 30px;   
+}
